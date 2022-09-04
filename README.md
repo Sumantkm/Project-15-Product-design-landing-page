@@ -9,7 +9,7 @@
 - Tiny bit of **@Media query**. 
 ***
 ## Time taken :
-- 4 hours to build the project.
+- 8 hours to build the project.
 ***
 ## Project screenshots(few) :
 ![Project-15/Product design landing page](./Project-snippits/Hero.PNG)
