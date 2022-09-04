@@ -1,4 +1,4 @@
-# Product design landing page 
+# Product design landing page - [LINK](https://product-design-15-landing-page.netlify.app/)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Choudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
